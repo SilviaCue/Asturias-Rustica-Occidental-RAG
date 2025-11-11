@@ -1,0 +1,30 @@
+# Entornos virtuales
+venv/
+.env/
+*.env
+
+# Archivos del sistema
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración local de VSCode / PyCharm
+.vscode/
+.idea/
+
+# Datos del proyecto (no subir datos pesados)
+data_img/
+data_text/
+*.pdf
+*.zip
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

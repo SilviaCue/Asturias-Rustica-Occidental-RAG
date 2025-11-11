@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langgraph
+pydantic
+faiss-cpu
+google-generativeai
+pymupdf
+pillow
