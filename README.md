@@ -66,8 +66,7 @@ asturias-rustica-occidental/
 | Embeddings | **FAISS** | Búsqueda semántica local |
 | Datos | **JSON / TXT locales** | Información rural y cultural |
 | Procesamiento multimodal | **Gemini + PIL + PyMuPDF** | Análisis de texto e imagen |
-| Backend opcional | **PostgreSQL / JSON local** | Persistencia de datos |
-| Entorno | **Python 3.11 + Google Colab / Local** | Desarrollo y pruebas |
+| Entorno | **Python 3.11  / Local** | Desarrollo y pruebas |
 
 ---
 
