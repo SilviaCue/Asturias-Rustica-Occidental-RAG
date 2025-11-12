@@ -11,3 +11,8 @@ class Query(BaseModel):
 def rag_endpoint(query: Query):
     result = run_rag_flow(query.question)
     return {"answer": result}
+
+@app.get("/")
+def root():
+    return {"message": "Asturias Rústica Occidental API"}
+

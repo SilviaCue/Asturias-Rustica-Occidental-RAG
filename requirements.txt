@@ -6,3 +6,6 @@ faiss-cpu
 google-generativeai
 pymupdf
 pillow
+google-cloud-secret-manager
+python-dotenv 
+

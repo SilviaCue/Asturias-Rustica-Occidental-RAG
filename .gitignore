@@ -28,3 +28,6 @@ data_text/
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
+
+# Donde se almacenan las claves secretas
+secret_keys.json
