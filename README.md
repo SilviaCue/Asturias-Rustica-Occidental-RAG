@@ -77,3 +77,6 @@ asturias-rustica-occidental/
    ```bash
    git clone https://github.com/SilviaCue/Asturias-Rustica-Occidental-RAG.git
    cd asturias_rustica
+---
+© 2025 **Silvia Cue** · *Asturias Rústica Occidental – Mar, piedra y naturaleza viva*  
+Código bajo licencia [MIT](./LICENSE) · Contenido (textos e imágenes) bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
